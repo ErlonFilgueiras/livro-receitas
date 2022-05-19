@@ -1,0 +1,1 @@
+# Strogonof de frango  **Negrito****Itálico**## Ingredientes:* item 1* item 5+ item 2- item 3- item 4## Modo de preparo* Frango	* Comprar o frango	* Limpar o frango	* Cozinhar o frango+ Molho	* Comprar o creme de leite	- Abrir o Creme de leite	* Cozinhar o creme de leite
